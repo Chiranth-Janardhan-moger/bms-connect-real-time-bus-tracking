@@ -438,7 +438,7 @@ For support, email chiranthmoger7@gmail.com or open an issue on GitHub.
 
 <div align="center">
 
-Made with ❤️ by the ConnectMe Team
+Made with ❤️
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Chiranth-Janardhan-moger/BMS_Connect)
