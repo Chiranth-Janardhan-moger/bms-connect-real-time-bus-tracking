@@ -1,6 +1,6 @@
 <div align="center">
 
-# ConnectMe
+# BMS_Connect
 
 ### Smart College Bus Tracking System
 
